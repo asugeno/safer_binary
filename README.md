@@ -44,10 +44,9 @@ safer.exe --erfile=./sample/bad-test.a5er --cofile=./sample/test-command.xml --o
 
 ```
 # Get file(ファイル取得)
-$ wget https://github.com/asugeno/safer_binary/archive/master.zip
+https://github.com/asugeno/safer_binary/archive/master.zip
 
 # file uncompress(ファイルの解凍)
-$ unzip master.zip
 ```
 
 ## Licence
