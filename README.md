@@ -9,6 +9,15 @@ Overview
 * This application is static analysis for ER file.(このアプリケーションはERファイルを静的解析するアプリケーションです)
 * It detects careless mistake from the input ER file.(入力されたER図ファイルから、ケアレスミスを検知します)
 
+## Compatible
+
+* OS
+ * Windows OS(version 10 or 7)
+ 
+* ER design file's format
+ * A5:SQL Mk-2
+ * ER Master
+
 ## Demo
 
 ![Demo](https://github.com/asugeno/safer_binary/blob/master/demo.gif)
