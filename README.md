@@ -11,6 +11,8 @@ Overview
 
 ## Demo
 
+![Demo](https://github.com/asugeno/safer_binary/blob/master/demo.gif)
+
 ## Requirement
 
 * Xerces-C++
